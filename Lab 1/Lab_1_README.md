@@ -38,7 +38,11 @@ sample_container.csv file to a local folder, take screenshot of AzCopy commands 
 
 - Screenshot should show terminal with command downloading csv file and file being downloaded, show entirety of the output
 
+![Terminal showing command downloading the csv file](./screenshots/4-terminal-command-downloading-csv-file.png)
+
 - Screenshot should show the csv file in your file explorer or whatever folder you’ve downloaded it to
+
+![CSV file in my File Explorer](./screenshots/5-csv-file-in-my-file-explorer.png)
 
 ---
 
