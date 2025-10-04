@@ -29,6 +29,8 @@ Understand object storage built to retrieve any amount of data from anywhere, of
 
 - Screenshot should show that file share has been created
 
+![File Share created](./screenshots/3-file-share-created.png)
+
 ---
 
 4. Work with objects in the containers, using AzCopy and download
