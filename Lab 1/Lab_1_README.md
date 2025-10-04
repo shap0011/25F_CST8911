@@ -14,11 +14,14 @@ Understand object storage built to retrieve any amount of data from anywhere, of
 - Screenshot should show the creation of Storage account, in the specified region and settings. Go to the storage account you created and Overview tab and take a screenshot showing those settings.
 
 ![Storage Account created](./screenshots/1-creation-of-storage-account.png)
+
 ---
 
 2. Add file named sample_container.csv objects to containers via GUI
 
 - Screenshot should show that csv file has been added to the container
+
+![Container created; csv file added to the container](./screenshots/2-container-created-csv-file-uploaded.png)
 
 ---
 
