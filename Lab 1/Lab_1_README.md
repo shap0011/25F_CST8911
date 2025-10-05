@@ -121,7 +121,7 @@ take screenshot of steps and output
 
 ![Resource group deleted](./screenshots/20-resource-group-deleted.png)
 
-    8.4. CLI logout
+    8.4. Azure CLI logout
 
 ![CLI logout](./screenshots/21-azcopy-logout-az-logout.png)
 
