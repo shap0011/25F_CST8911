@@ -100,7 +100,7 @@ take screenshot of steps and output
 ![My role assignments CLI](./screenshots/16-list-my%20role%20assignments-CLI.png)
 
     7.6. Notification pane
-    
+
 ![Notification pane](./screenshots/17-Notifications.png)
 
 ---
@@ -109,6 +109,20 @@ take screenshot of steps and output
 
 - Show you deleting storage account or resource group and successful deleted message
 
+    8.1. Delete vault
 
+![vaultId deleted](./screenshots/18-vaultId-deleted.png)
+
+    8.2. Resource group deletion started
+
+![Resource group deletion started](./screenshots/19-resource-group-deletion-started.png)
+
+    8.3. Resource group deleted
+
+![Resource group deleted](./screenshots/20-resource-group-deleted.png)
+
+    8.4. CLI logout
+
+![CLI logout](./screenshots/21-azcopy-logout-az-logout.png)
 
 ---
