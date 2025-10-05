@@ -57,7 +57,11 @@ take screenshot of steps and output
 
 - Screenshot of command uploading .json file via SAS token and successful output command
 
+![Command uploading .json file via SAS token and successful output command](./screenshots/8-command-uploading-json-file-via-SAS-token-and-success-output-command.png)
+
 - Screenshot of the azure portal showing file has been uploaded
+
+![Azure portal file uploaded](./screenshots/9-azure-portal-file-uploaded.png)
 
 ---
 
