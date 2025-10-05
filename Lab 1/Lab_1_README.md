@@ -69,10 +69,13 @@ take screenshot of steps and output
 
 - Screenshot should show your current IAM policy that you have for that storage account
 
+![Current IAM policy](./screenshots/10-current-IAM-policy.png)
+
+![Current IAM policy](./screenshots/11-CLI-storage-account-scope.png)
+
 ---
 
-7. Create IAM policy for storage account, that is relevant to the service that
-would allow you to view all resources, but does not allow you to make any changes.
+7. Create IAM policy for storage account, that is relevant to the service that would allow you to view all resources, but does not allow you to make any changes.
 
 - Show each step of giving yourself the correct role
 
