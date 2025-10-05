@@ -79,10 +79,30 @@ take screenshot of steps and output
 
 - Show each step of giving yourself the correct role
 
+    7.1. Role Reader selected
+![Role 'Reader' selected](./screenshots/12-role-reader-selected.png)
+
+    7.2. Member selected
+![Member selected](./screenshots/13-member-selected.png)
+
+    7.3. Role assignment created
+![Role assignment created](./screenshots/14-review%20+%20assign.png)
+
+    7.4. My access pane showing Reader at the storage account scope
+![Reader at the storage account scope](./screenshots/15-my-access-pane-showing-reader-at%20the%20storage-account-scope.png)
+
+    7.5. My role assignments CLI
+![My role assignments CLI](./screenshots/16-list-my%20role%20assignments-CLI.png)
+
+    7.6. Notification pane
+![Notification pane](./screenshots/17-Notifications.png)
+
 ---
 
 8. Delete container and contents created
 
 - Show you deleting storage account or resource group and successful deleted message
+
+
 
 ---
