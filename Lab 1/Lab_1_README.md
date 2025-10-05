@@ -51,6 +51,10 @@ take screenshot of steps and output
 
 - Screenshot should show you uploading the .json file via SAS token, so show where you found the SAS token in the azure portal
 
+![SAS token location inn the azure portal](./screenshots/6-checked-permissions.png)
+
+![SAS token location inn the azure portal](./screenshots/7-SAS-token.png)
+
 - Screenshot of command uploading .json file via SAS token and successful output command
 
 - Screenshot of the azure portal showing file has been uploaded
