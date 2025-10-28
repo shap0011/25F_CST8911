@@ -20,5 +20,4 @@
 | Step 2  | - Screenshot of process of create azure function app, displaying the setting you selected. Need to show the runtime stack, version, region, and consumption hosting option selected                       |
 | Step 3  | - Screenshot of the process of creating the function app via azure portal. Ensure your storage account connection is the storage account created in step 1                                                |
 | Step 4  | - Screenshot of the code of the function<br>- Screenshot of the .json file<br>- Screenshot of the Test/run Input file<br>- Screenshot of the output<br>- Copy the bottom output log and paste in word doc |
-|  |
 | Step 5  | - Screenshot of your resource group service and no resources underneath the resource group                                                                                                                |
