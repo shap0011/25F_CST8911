@@ -14,7 +14,7 @@
 
 ### 1. Create storage account with Locally redundant storage setting and in the East US region (Score 1)
 
-_NOTE: the East US region is not available for Student Subscription_
+<u>_NOTE: the East US region is not available for 'Azure for Students' subscription_</u>
 
 **Step 1:**
 
