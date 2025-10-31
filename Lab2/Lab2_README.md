@@ -40,7 +40,7 @@
 
 - Screenshot of the process of creating the function app via azure portal. Ensure your storage account connection is the storage account created in step 1
 
-<img src="./screenshots" alt="" title="" width="300" />
+<img src="./screenshots/Step3_Create_Azure_Function.png" alt="Create Azure Function" title="Create Azure Function" width="1000" />
 
 <hr>
 
