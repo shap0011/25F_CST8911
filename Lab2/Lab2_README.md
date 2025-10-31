@@ -30,7 +30,7 @@
 
 - Screenshot of process of create azure function app, displaying the setting you selected. Need to show the runtime stack, version, region, and consumption hosting option selected
 
-<img src="./screenshots" alt="" title="" width="300" />
+<img src="./screenshots/Step2_Azure_Function_App.png" alt="Azure Function App" title="Azure Function App" width="1000" />
 
 <hr>
 
