@@ -49,12 +49,28 @@
 **Step 4:**
 
 - Screenshot of the code of the function
+
+<img src="./screenshots/Step4_1_Code_of_the_Function.png" alt="Code of the Function" title="Code of the Function" width="300" />
+
 - Screenshot of the .json file
+
+<img src="./screenshots/Step4_2_json_file.png" alt="JSON file" title="JSON file" width="300" />
+
 - Screenshot of the Test/run Input file
+
+<img src="./screenshots/Step4_3_Test_run_Input_file.png" alt="Test/run Input file" title="Test/run Input file" width="300" />
+
 - Screenshot of the output
+
+<img src="./screenshots/Step4_4_output.png" alt="Output" title="Output" width="300" />
+
 - Copy the bottom output log and paste in word doc
 
-<img src="./screenshots" alt="" title="" width="300" />
+<img src="./screenshots/Step4_5_Bottom_output_log.png" alt="Bottom output log" title="Bottom output log" width="300" />
+
+```
+JavaScript blob trigger function processed blob Blob: samples-workitems/Hello.txt Blob Size: 27 Bytes
+```
 
 <hr>
 
@@ -64,6 +80,6 @@
 
 - Screenshot of your resource group service and no resources underneath the resource group
 
-<img src="./screenshots" alt="" title="" width="300" />
+<img src="./screenshots/Step5_Resource_group_service_and_no_resources.png" alt="" title="" width="300" />
 
 <hr>
