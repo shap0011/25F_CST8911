@@ -14,9 +14,13 @@
 
 ### 1. Create storage account with Locally redundant storage setting and in the East US region (Score 1)
 
+_NOTE: the East US region is not available for Student Subscription_
+
 **Step 1:**
 
 - Storage account, overview tab screenshot, that essentially displays, name of storage account, region, and redundancy setting ie Locally redundant storage
+
+<img src="./screenshots/Step1_Storage_Account.png" alt="Storage Account Overview" title="Storage Account Overview" width="600" />
 
 <hr>
 
@@ -26,6 +30,8 @@
 
 - Screenshot of process of create azure function app, displaying the setting you selected. Need to show the runtime stack, version, region, and consumption hosting option selected
 
+<img src="./screenshots" alt="" title="" width="300" />
+
 <hr>
 
 ### 3. Within the function app create an azure function, via the azure portal. Create an azure blob storage trigger function. Ensure your storage account connection is the storage account created in step 1 (Score 3)
@@ -33,6 +39,8 @@
 **Step 3:**
 
 - Screenshot of the process of creating the function app via azure portal. Ensure your storage account connection is the storage account created in step 1
+
+<img src="./screenshots" alt="" title="" width="300" />
 
 <hr>
 
@@ -46,6 +54,8 @@
 - Screenshot of the output
 - Copy the bottom output log and paste in word doc
 
+<img src="./screenshots" alt="" title="" width="300" />
+
 <hr>
 
 ### 5. Delete all resources, there will be quite a few created, check under resource group to ensure everything has been deleted (Score 1)
@@ -53,5 +63,7 @@
 **Step 5:**
 
 - Screenshot of your resource group service and no resources underneath the resource group
+
+<img src="./screenshots" alt="" title="" width="300" />
 
 <hr>
