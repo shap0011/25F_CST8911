@@ -20,7 +20,7 @@ _NOTE: the East US region is not available for Student Subscription_
 
 - Storage account, overview tab screenshot, that essentially displays, name of storage account, region, and redundancy setting ie Locally redundant storage
 
-<img src="./screenshots/Step1_Storage_Account.png" alt="Storage Account Overview" title="Storage Account Overview" width="900" />
+<img src="./screenshots/Step1_Storage_Account.png" alt="Storage Account Overview" title="Storage Account Overview" width="1000" />
 
 <hr>
 
