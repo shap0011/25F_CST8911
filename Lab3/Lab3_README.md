@@ -8,7 +8,7 @@
 
 ## 1. Using the deploy a custom template azure service, create a custom template to deploy a linux virtual machine, that contains the following settings:
 
-a. Region: Canada Central (as "east us" doesn't work for the "Azure Student" subscription)
+**a. Region: Canada Central (as "east us" doesn't work for the "Azure Student" subscription)**
 
 changed 'location -> default value' to 'canadacentral'
 
@@ -22,11 +22,11 @@ changed 'location -> default value' to 'canadacentral'
     }
 ```
 
-b. Availability Options: no infrastructure redundancy required
+**b. Availability Options: no infrastructure redundancy required**
 
-no changes needed
+_no changes needed_
 
-c. Security Type: standard
+**c. Security Type: standard**
 
 added to 'resources -> Microsoft.Compute/virtualMachines'
 
@@ -36,7 +36,7 @@ added to 'resources -> Microsoft.Compute/virtualMachines'
 		},
 ```
 
-d. Image: ubuntu server 22.04 LTS
+**d. Image: ubuntu server 22.04 LTS**
 
 edited imageReference `sku` to the non-gen2
 
@@ -49,19 +49,19 @@ edited imageReference `sku` to the non-gen2
           }
 ```
 
-e. Size: standard_b1ls -1 vcpu, 0.5 Gib memory
+**e. Size: standard_b1ls -1 vcpu, 0.5 Gib memory**
 
-f. Authentication type: password (include username and password in the template)
+**f. Authentication type: password (include username and password in the template)**
 
-g. Public inbound ports: None
+**g. Public inbound ports: None**
 
-h. Os Disk type: Standard SSD
+**h. Os Disk type: Standard SSD**
 
-i. Specify virtual network in the template
+**i. Specify virtual network in the template**
 
-j. NIC network security Group: None
+**j. NIC network security Group: None**
 
-k. Load balancing options: None
+**k. Load balancing options: None**
 
 l. Add a tag
 
