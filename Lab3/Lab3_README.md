@@ -98,7 +98,20 @@ _no changes needed_
 
 - removed both NSG resources from template
 
+- clean up JSON code
+
 **h. Os Disk type: Standard SSD**
+
+_no changes needed_
+
+```
+          "osDisk": {
+            "createOption": "FromImage",
+			"managedDisk": {
+              "storageAccountType": "StandardSSD_LRS"
+            }
+          }
+```
 
 **i. Specify virtual network in the template**
 
