@@ -8,30 +8,29 @@
 
 ## 1. Using the deploy a custom template azure service, create a custom template to deploy a linux virtual machine, that contains the following settings:
 
-    a. Region: east us
+a. Region: east us
 
-    b. Availability Options: no infrastructure redundancy required
+b. Availability Options: no infrastructure redundancy required
 
+c. Security Type: standard
 
-    c. Security Type: standard
+d. Image: ubuntu server 22.04 LTS
 
-    d. Image: ubuntu server 22.04 LTS
+e. Size: standard_b1ls -1 vcpu, 0.5 Gib memory
 
-    e. Size: standard_b1ls -1 vcpu, 0.5 Gib memory
+f. Authentication type: password (include username and password in the template)
 
-    f. Authentication type: password (include username and password in the template)
+g. Public inbound ports: None
 
-    g. Public inbound ports: None
+h. Os Disk type: Standard SSD
 
-    h. Os Disk type: Standard SSD
+i. Specify virtual network in the template
 
-    i. Specify virtual network in the template
+j. NIC network security Group: None
 
-    j. NIC network security Group: None
+k. Load balancing options: None
 
-    k. Load balancing options: None
-
-    l. Add a tag
+l. Add a tag
 
 Once created ensure it deploys and verify that the virtual machine was created /20
 
