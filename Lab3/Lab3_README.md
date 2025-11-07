@@ -179,6 +179,8 @@ Attach your json custom template as a separate file
 
 Screenshot showing successful deployment from the custom template
 
+<img src="./screenshots/1_Deployment_succeeded.png" alt="Successful deployment from the custom template" title="Successful deployment from the custom template" width="1000"/>
+
 So I can verify that the virtual machine from the json template was created. Screenshots should include verifications of each of the settings in step 1, so the screenshots should show the virtual machine once it is created and its settings ensure you display the
 
 - Region
