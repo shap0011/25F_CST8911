@@ -115,6 +115,40 @@ _no changes needed_
 
 **i. Specify virtual network in the template**
 
+_no changes needed, already satisfied with previous steps_
+
+```
+{
+  "type": "Microsoft.Network/virtualNetworks",
+  "apiVersion": "2020-05-01",
+  "name": "[variables('vNetName')]",
+  "location": "[parameters('location')]",
+  "properties": {
+    "addressSpace": {
+      "addressPrefixes": [
+        "[variables('vNetAddressPrefixes')]"
+      ]
+    },
+    "subnets": [
+      {
+        "name": "[variables('vNetSubnetName')]",
+        "properties": {
+          "addressPrefix": "[variables('vNetSubnetAddressPrefix')]"
+        }
+      }
+    ]
+  }
+}
+
+```
+
+```
+"subnet": {
+  "id": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('vNetName'), variables('vNetSubnetName'))]"
+}
+
+```
+
 **j. NIC network security Group: None**
 
 **k. Load balancing options: None**
