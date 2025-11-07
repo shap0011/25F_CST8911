@@ -10,7 +10,7 @@
 
 **a. Region: Canada Central (as "east us" doesn't work for the "Azure Student" subscription)**
 
-changed 'location -> default value' to 'canadacentral'
+changed parameter 'location -> default value' to 'canadacentral'
 
 ```
 "location": {
@@ -50,6 +50,18 @@ edited imageReference `sku` to the non-gen2
 ```
 
 **e. Size: standard_b1ls -1 vcpu, 0.5 Gib memory**
+
+changed parameter 'vmSize -> default value' to 'standard_b1ls'
+
+```
+    "vmSize": {
+      "type": "string",
+      "defaultValue": "Standard_B1ls",
+      "metadata": {
+        "description": "Specifies the size of the virtual machine"
+      }
+    }
+```
 
 **f. Authentication type: password (include username and password in the template)**
 
