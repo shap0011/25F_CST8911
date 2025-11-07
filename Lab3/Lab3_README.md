@@ -177,6 +177,8 @@ Once created ensure it deploys and verify that the virtual machine was created /
 
 Attach your json custom template as a separate file
 
+[template.json](ExportedTemplate-Microsoft.Template-20251107172536/template.json)
+
 Screenshot showing successful deployment from the custom template
 
 <img src="./screenshots/1_Deployment_succeeded.png" alt="Successful deployment from the custom template" title="Successful deployment from the custom template" width="1000"/>
