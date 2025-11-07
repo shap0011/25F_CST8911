@@ -10,7 +10,7 @@
 
 **a. Region: Canada Central (as "east us" doesn't work for the "Azure Student" subscription)**
 
-changed parameter 'location -> default value' to 'canadacentral'
+- changed parameter 'location -> default value' to 'canadacentral'
 
 ```
 "location": {
@@ -28,7 +28,7 @@ _no changes needed_
 
 **c. Security Type: standard**
 
-added to 'resources -> Microsoft.Compute/virtualMachines'
+- added to 'resources -> Microsoft.Compute/virtualMachines'
 
 ```
 		"securityProfile": {
@@ -38,7 +38,7 @@ added to 'resources -> Microsoft.Compute/virtualMachines'
 
 **d. Image: ubuntu server 22.04 LTS**
 
-edited imageReference `sku` to the non-gen2
+- edited imageReference `sku` to the non-gen2
 
 ```
           "imageReference": {
@@ -51,7 +51,7 @@ edited imageReference `sku` to the non-gen2
 
 **e. Size: standard_b1ls -1 vcpu, 0.5 Gib memory**
 
-changed parameter 'vmSize -> default value' to 'standard_b1ls'
+- changed parameter 'vmSize -> default value' to 'standard_b1ls'
 
 ```
     "vmSize": {
@@ -64,6 +64,33 @@ changed parameter 'vmSize -> default value' to 'standard_b1ls'
 ```
 
 **f. Authentication type: password (include username and password in the template)**
+
+- removed from template parameter "adminPublicKey"
+
+- added a new parameter "adminPassword"
+
+```
+    "adminPassword": {
+      "type": "securestring",
+      "defaultValue": "myPassword_123",
+      "metadata": {
+        "description": "Specifies the password for the Virtual Machine."
+      }
+    }
+```
+
+- edited VM's osProfile section
+
+```
+        "osProfile": {
+          "computerName": "[variables('vmName')]",
+          "adminUsername": "[parameters('adminUsername')]",
+          "adminPassword": "[parameters('adminPassword')]",
+          "linuxConfiguration": {
+            "disablePasswordAuthentication": false
+          }
+        }
+```
 
 **g. Public inbound ports: None**
 
@@ -106,4 +133,10 @@ So I can verify that the virtual machine from the json template was created. Scr
 
 Screenshot showing that all resources were deleted
 
-[How to create a Linux virtual machine with Azure Resource Manager templates](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template)
+---
+
+REFERENCES:
+
+1. [How to create a Linux virtual machine with Azure Resource Manager templates](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template)
+
+2. [Data types in ARM templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/data-types)
