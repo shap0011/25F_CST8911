@@ -94,6 +94,10 @@ _no changes needed_
 
 **g. Public inbound ports: None**
 
+- removed the public IP resource from template
+
+- removed both NSG resources from template
+
 **h. Os Disk type: Standard SSD**
 
 **i. Specify virtual network in the template**
