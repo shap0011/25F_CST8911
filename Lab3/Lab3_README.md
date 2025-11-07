@@ -151,9 +151,21 @@ _no changes needed, already satisfied with previous steps_
 
 **j. NIC network security Group: None**
 
+_NO NIC network security Group_
+
 **k. Load balancing options: None**
 
+_NO Load balancing options_
+
 l. Add a tag
+
+- added tags block to all resources
+
+```
+  "tags": {
+    "Project": "Lab3"
+  }
+```
 
 Once created ensure it deploys and verify that the virtual machine was created /20
 
