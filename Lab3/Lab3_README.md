@@ -209,7 +209,7 @@ So I can verify that the virtual machine from the json template was created. Scr
 
 <img src="./screenshots/7_Os_Disk_type.png" alt="Os Disk Type" title="Os Disk Type" width="1100"/>
 
-- virtual network
+- Virtual Network
 
 <img src="./screenshots/8_Virtual_Network.png" alt="Virtual Network" title="Virtual Network" width="1100"/>
 
@@ -217,13 +217,13 @@ So I can verify that the virtual machine from the json template was created. Scr
 
 <img src="./screenshots/9_Load-Balancing_Options.png" alt="Load Balancing Options" title="Load Balancing Options" width="1000"/>
 
-- tag that was created
+- Tag that was created
 
 <img src="./screenshots/10_Tags_that_was_created.png" alt="Tags that was created" title="Tags that was created" width="500"/>
 
 <u>Step 2:</u>
 
-Screenshot showing that all resources were deleted
+**Screenshot showing that all resources were deleted**
 
 <img src="./screenshots/11_All_Resources_were_deleted.png" alt="All resources were deleted" title="All resources were deleted" width="500"/>
 
