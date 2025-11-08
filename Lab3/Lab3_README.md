@@ -183,22 +183,49 @@ Screenshot showing successful deployment from the custom template
 
 <img src="./screenshots/1_Deployment_succeeded.png" alt="Successful deployment from the custom template" title="Successful deployment from the custom template" width="1000"/>
 
+<img src="./screenshots/2_VM_Overview.png" alt="Virtual Machine Overview" title="Virtual Machine Overview" width="1000"/>
+
 So I can verify that the virtual machine from the json template was created. Screenshots should include verifications of each of the settings in step 1, so the screenshots should show the virtual machine once it is created and its settings ensure you display the
 
 - Region
 - Availability Options
+
+<img src="./screenshots/3_Region_Availability_Options.png" alt="Region & Availability Options" title="Region & Availability Options" width="300"/>
+
 - Security Type
+
+<img src="./screenshots/4_Security_Type.png" alt="Security Type" title="Security Type" width="300"/>
+
 - Image
 - Size
+
+<img src="./screenshots/5_Image_Size.png" alt="Image & Size" title="Image & Size" width="400"/>
+
 - Public inbound ports
+
+<img src="./screenshots/6_Public_Inbound_Ports.png" alt="Public Inbound Ports" title="Public Inbound Ports" width="1000"/>
+
 - Os Disk type
+
+<img src="./screenshots/7_Os_Disk_type.png" alt="Os Disk Type" title="Os Disk Type" width="1000"/>
+
 - virtual network
+
+<img src="./screenshots/8_Virtual_Network.png" alt="Virtual Network" title="Virtual Network" width="1000"/>
+
 - Load balancing options
+
+<img src="./screenshots/9_Load-Balancing_Options.png" alt="Load Balancing Options" title="Load Balancing Options" width="900"/>
+
 - tag that was created
+
+<img src="./screenshots/10_Tags_that_was_created.png" alt="Tags that was created" title="Tags that was created" width="400"/>
 
 <u>Step 2:</u>
 
 Screenshot showing that all resources were deleted
+
+<img src="./screenshots/11_All_Resources_were_deleted.png" alt="All resources were deleted" title="All resources were deleted" width="400"/>
 
 ---
 
