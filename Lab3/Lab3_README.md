@@ -203,19 +203,19 @@ So I can verify that the virtual machine from the json template was created. Scr
 
 - Public inbound ports
 
-<img src="./screenshots/6_Public_Inbound_Ports.png" alt="Public Inbound Ports" title="Public Inbound Ports" width="1000"/>
+<img src="./screenshots/6_Public_Inbound_Ports.png" alt="Public Inbound Ports" title="Public Inbound Ports" width="1100"/>
 
 - Os Disk type
 
-<img src="./screenshots/7_Os_Disk_type.png" alt="Os Disk Type" title="Os Disk Type" width="1000"/>
+<img src="./screenshots/7_Os_Disk_type.png" alt="Os Disk Type" title="Os Disk Type" width="1100"/>
 
 - virtual network
 
-<img src="./screenshots/8_Virtual_Network.png" alt="Virtual Network" title="Virtual Network" width="1000"/>
+<img src="./screenshots/8_Virtual_Network.png" alt="Virtual Network" title="Virtual Network" width="1100"/>
 
 - Load balancing options
 
-<img src="./screenshots/9_Load-Balancing_Options.png" alt="Load Balancing Options" title="Load Balancing Options" width="900"/>
+<img src="./screenshots/9_Load-Balancing_Options.png" alt="Load Balancing Options" title="Load Balancing Options" width="1000"/>
 
 - tag that was created
 
