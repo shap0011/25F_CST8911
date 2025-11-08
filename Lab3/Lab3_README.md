@@ -190,16 +190,16 @@ So I can verify that the virtual machine from the json template was created. Scr
 - Region
 - Availability Options
 
-<img src="./screenshots/3_Region_Availability_Options.png" alt="Region & Availability Options" title="Region & Availability Options" width="300"/>
+<img src="./screenshots/3_Region_Availability_Options.png" alt="Region & Availability Options" title="Region & Availability Options" width="500"/>
 
 - Security Type
 
-<img src="./screenshots/4_Security_Type.png" alt="Security Type" title="Security Type" width="300"/>
+<img src="./screenshots/4_Security_Type.png" alt="Security Type" title="Security Type" width="500"/>
 
 - Image
 - Size
 
-<img src="./screenshots/5_Image_Size.png" alt="Image & Size" title="Image & Size" width="400"/>
+<img src="./screenshots/5_Image_Size.png" alt="Image & Size" title="Image & Size" width="600"/>
 
 - Public inbound ports
 
@@ -219,13 +219,13 @@ So I can verify that the virtual machine from the json template was created. Scr
 
 - tag that was created
 
-<img src="./screenshots/10_Tags_that_was_created.png" alt="Tags that was created" title="Tags that was created" width="400"/>
+<img src="./screenshots/10_Tags_that_was_created.png" alt="Tags that was created" title="Tags that was created" width="500"/>
 
 <u>Step 2:</u>
 
 Screenshot showing that all resources were deleted
 
-<img src="./screenshots/11_All_Resources_were_deleted.png" alt="All resources were deleted" title="All resources were deleted" width="400"/>
+<img src="./screenshots/11_All_Resources_were_deleted.png" alt="All resources were deleted" title="All resources were deleted" width="500"/>
 
 ---
 
