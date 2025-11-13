@@ -90,7 +90,7 @@ Include screenshots of alert rule being created for the virtual machine, with lo
 
 <img src="./screenshots/step_2_9_create_an_alert_rule_action_group_failure_error_copilot_troubleshooting.png" alt="" title="Create an alert rule, Action Group failure error Copilot troubleshooting" width="1100"/>
 
-❗**To fix the error the Automation account must be created first**
+❗**To fix the error the Automation Account must be created first**
 
 ---
 
@@ -110,15 +110,19 @@ Include screenshots showing you have created the automation account in the same 
 
 Include screenshots displaying the creation of a runbook that uses powershell 5.1 as the runtype and version.
 
-<img src="" alt="" title="" width="500"/>
+<img src="./screenshots/step_4_1_create_a_runbook_review.png" alt="" title="Create a runbook setting review" width="500"/>
 
-<img src="" alt="" title="" width="500"/>
+<img src="./screenshots/step_4_2_runbook_is_created.png" alt="" title="Runbook is created notification" width="500"/>
 
 ---
 
 ➡️ **Step 5: Edit the code so that it will stop the virtual machine**
 
 Include screenshots of the final code, of you selecting test pane and testing the code to see if it works and stops the virtual machine, and final screenshot of the stopped virtual machine you created in step 1
+
+<img src="" alt="" title="" width="500"/>
+
+<img src="" alt="" title="" width="500"/>
 
 <img src="" alt="" title="" width="500"/>
 
