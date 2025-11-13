@@ -92,6 +92,16 @@ Include screenshots of alert rule being created for the virtual machine, with lo
 
 ❗**To fix the error the Automation Account must be created first**
 
+‼️**Create action group after completing Task 3 and Task 4**
+
+<img src="./screenshots/step_2_10_recreate_action_group.png" alt="Configure Runbook" title="" width="1100"/>
+
+<img src="./screenshots/step_2_11_virtual_machine_contributor_role_assigned.png" alt="" title="Virtual Machine Contributor role assigned notification" width="1100"/>
+
+<img src="./screenshots/step_2_12_create_action_group_review+create.png" alt="" title="Create action group review" width="400"/>
+
+<img src="./screenshots/step_2_13_action_group_created_successfully.png" alt="" title="Action group created successfully" width="400"/>
+
 ---
 
 ➡️ **Step 3: Create an Automation account**
