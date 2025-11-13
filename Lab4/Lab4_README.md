@@ -6,25 +6,25 @@
 
 ---
 
-## <u>Main Tasks for Azure:</u>
+## Main Tasks for Azure:
 
 1. Create Virtual Machine based on these settings:
 
-   a. Region: east US 2
+   a. Region: `east US` 2
 
-   b. Availability options: no infrastructure redundancy required
+   b. Availability options: `no infrastructure redundancy required`
 
-   c. Security type: Standard
+   c. Security type: `Standard`
 
-   d. Image: Ubuntu server 24.04 LTS
+   d. Image: Ubuntu server `24.04 LTS`
 
-   e. VM Architecture: X64
+   e. VM Architecture: `X64`
 
-   f. Size: standard B1s ( should be around $3.80 a month)
+   f. Size: `standard B1s` ( should be around $3.80 a month)
 
-   g. Public inbound ports: None
+   g. Public inbound ports: `None`
 
-   h. OS disk type: standard SSD(locally redundant storage)
+   h. OS disk type: `standard SSD`(locally redundant storage)
 
    i. no load balancers or NIC network security groups are necessary
 
@@ -42,29 +42,29 @@
 
 Total: /23
 
-<u>Screenshots:</u>
+Screenshots:
 
-<u>Step 1:</u>
+➡️ **Step 1:**
 
 Include screenshots that display each of those settings being selected and the virtual machine being created
 
-<u>Step 2:</u>
+➡️ **Step 2:**
 
 Include screenshots of alert rule being created for the virtual machine, with logical aggregation type, operator, threshold value and checks. Also, include the screenshots of the action group being created in the correct region, and selecting the correct action group which has a built-in functionality that will let you stop the virtual machine.
 
-<u>Step 3:</u>
+➡️ **Step 3:**
 
 Include screenshots showing you have created the automation account in the same region as all other resources (East US 2)
 
-<u>Step 4:</u>
+➡️ **Step 4:**
 
 Include screenshots displaying the creation of a runbook that uses powershell 5.1 as the runtype and version.
 
-<u>Step 5:</u>
+➡️ **Step 5:**
 
 Include screenshots of the final code, of you selecting test pane and testing the code to see if it works and stops the virtual machine, and final screenshot of the stopped virtual machine you created in step 1
 
-<u>Step 6:</u>
+➡️ **Step 6:**
 
 Screenshot showing resources have all been deleted or just delete resource group
 
@@ -85,32 +85,31 @@ Screenshot showing resources have all been deleted or just delete resource group
 6. Confirm that site get automatically updated with new change /1
    Delete resources /1
 
-<u>Step 1:</u>
+➡️ **Step 1:**
 
 Screenshot of html file content in repo and all other files, provide link but make sure I have access
 
-<u>Step 2:</u>
+➡️ **Step 2:**
 
 Screenshot must show the process of creating static web app, show that free plan was selected and that github account was linked and repo name selected
 
-<u>Step 3:</u>
+➡️ **Step 3:**
 
 Screenshot should show that workflow folder was added to repo and content of .yml file
 
-<u>Step 4:</u>
+➡️ **Step 4:**
 
 Screenshot of the site
 
-<u>Step 5:</u>
-
+➡️ **Step 5:**
 Screenshot of the file you’ve updated, so I can view the difference.
 
-<u>Step 6:</u>
+➡️ **Step 6:**
 
 Screenshot of new site showing the change.
 
-<u>Step 7:</u>
+➡️ **Step 7:**
 
 Resources being deleted, or resource group being deleting, show either no resources available or confirmation of deletion of resources
 
-Due on Nov 23, 2025 11:59 PM
+_Due on Nov 23, 2025 11:59 PM_
