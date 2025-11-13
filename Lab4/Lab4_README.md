@@ -98,11 +98,11 @@ Include screenshots of alert rule being created for the virtual machine, with lo
 
 Include screenshots showing you have created the automation account in the same region as all other resources (East US 2)
 
-<img src="" alt="" title="" width="500"/>
+<img src="./screenshots/step_3_1_create_an_automation_account_review.png" alt="" title="Create an Automation Account Setting review" width="500"/>
 
-<img src="" alt="" title="" width="500"/>
+<img src="./screenshots/step_3_2_create_an_automation_account_created.png" alt="" title="Automation Account created" width="1100"/>
 
-<img src="" alt="" title="" width="500"/>
+<img src="./screenshots/step_3_3_create_an_automation_account_overview.png" alt="" title="Automation Account overview" width="1100"/>
 
 ---
 
