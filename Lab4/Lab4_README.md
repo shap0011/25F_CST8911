@@ -74,23 +74,23 @@ Include screenshots of alert rule being created for the virtual machine, with lo
 
 <img src="./screenshots/step_2_1_create_an_alert_rule_scope.png" alt="" title="Create an alert rule Scope" width="700"/>
 
-<img src="./screenshots/step_2_2_create_an_alert_rule_condition.png" alt="" title="Create an alert rule Condition" width="900"/>
+<img src="./screenshots/step_2_2_create_an_alert_rule_condition.png" alt="" title="Create an alert rule Condition" width="1100"/>
 
 <img src="./screenshots/step_2_3_create_an_alert_rule_select_actions.png" alt="" title="Create an alert rule Select Action" width="700"/>
 
 <img src="./screenshots/step_2_4_create_an_alert_rule_action_group_basics.png" alt="" title="Create an alert rule, Action Group Basics" width="800"/>
 
-<img src="./screenshots/step_2_5_create_an_alert_rule_action_group_actions_configure_runbook.png" alt="" title="Create an alert rule, Action Group Actions, configure runbook" width="700"/>
+<img src="./screenshots/step_2_5_create_an_alert_rule_action_group_actions_configure_runbook.png" alt="" title="Create an alert rule, Action Group Actions, configure runbook" width="1100"/>
 
-<img src="./screenshots/step_2_6_create_an_alert_rule_action_group_actions_selections_conpleted.png" alt="" title="Create an alert rule, Action Group Actions, settings completed" width="500"/>
+<img src="./screenshots/step_2_6_create_an_alert_rule_action_group_actions_selections_conpleted.png" alt="" title="Create an alert rule, Action Group Actions, settings completed" width="700"/>
 
-<img src="./screenshots/step_2_7_create_an_alert_rule_action_group_review.png" alt="" title="Create an alert rule, Action Group review" width="500"/>
+<img src="./screenshots/step_2_7_create_an_alert_rule_action_group_review.png" alt="" title="Create an alert rule, Action Group review" width="600"/>
 
 <img src="./screenshots/step_2_8_create_an_alert_rule_action_group_failure_error.png" alt="" title="Create an alert rule, Action Group failure error" width="500"/>
 
-<img src="./screenshots/step_2_9_create_an_alert_rule_action_group_failure_error_copilot_troubleshooting.png" alt="" title="Create an alert rule, Action Group failure error Copilot troubleshooting" width="1000"/>
+<img src="./screenshots/step_2_9_create_an_alert_rule_action_group_failure_error_copilot_troubleshooting.png" alt="" title="Create an alert rule, Action Group failure error Copilot troubleshooting" width="1100"/>
 
-**To fix the error the Automation account must be created first**
+❗**To fix the error the Automation account must be created first**
 
 ---
 
