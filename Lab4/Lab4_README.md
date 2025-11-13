@@ -44,7 +44,7 @@ j. Create a meaningful tag and value /10
 
 ## Screenshots:
 
-➡️ **Step 1:**
+➡️ **Step 1: Create Virtual Machine based on given settings**
 
 Include screenshots that display each of those settings being selected and the virtual machine being created
 
@@ -66,27 +66,49 @@ Include screenshots that display each of those settings being selected and the v
 
 <img src="./screenshots/step_1_9_properties.png" alt="" title="Virtual Machine Properties" width="1100"/>
 
-<img src="" alt="" title="" width="500"/>
+---
 
-<img src="" alt="" title="" width="500"/>
-
-➡️ **Step 2:**
+➡️ **Step 2: Create alert rule and corresponding action group for virtual machine**
 
 Include screenshots of alert rule being created for the virtual machine, with logical aggregation type, operator, threshold value and checks. Also, include the screenshots of the action group being created in the correct region, and selecting the correct action group which has a built-in functionality that will let you stop the virtual machine.
 
-➡️ **Step 3:**
+<img src="" alt="" title="" width="500"/>
+
+<img src="" alt="" title="" width="500"/>
+
+---
+
+➡️ **Step 3: Create an Automation account**
 
 Include screenshots showing you have created the automation account in the same region as all other resources (East US 2)
 
-➡️ **Step 4:**
+<img src="" alt="" title="" width="500"/>
+
+<img src="" alt="" title="" width="500"/>
+
+---
+
+➡️ **Step 4: Create a runbook in powershell in the automation account**
 
 Include screenshots displaying the creation of a runbook that uses powershell 5.1 as the runtype and version.
 
-➡️ **Step 5:**
+<img src="" alt="" title="" width="500"/>
+
+<img src="" alt="" title="" width="500"/>
+
+---
+
+➡️ **Step 5: Edit the code so that it will stop the virtual machine**
 
 Include screenshots of the final code, of you selecting test pane and testing the code to see if it works and stops the virtual machine, and final screenshot of the stopped virtual machine you created in step 1
 
-➡️ **Step 6:**
+<img src="" alt="" title="" width="500"/>
+
+<img src="" alt="" title="" width="500"/>
+
+---
+
+➡️ **Step 6: After demo delete all resources and policies created**
 
 Screenshot showing resources have all been deleted or just delete resource group
 
