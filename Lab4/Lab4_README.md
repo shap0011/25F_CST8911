@@ -8,41 +8,41 @@
 
 ## Main Tasks for Azure:
 
-1. Create Virtual Machine based on these settings:
+**1. Create Virtual Machine based on these settings:**
 
-   a. Region: `east US` 2
+a. Region: `east US` 2
 
-   b. Availability options: `no infrastructure redundancy required`
+b. Availability options: `no infrastructure redundancy required`
 
-   c. Security type: `Standard`
+c. Security type: `Standard`
 
-   d. Image: Ubuntu server `24.04 LTS`
+d. Image: Ubuntu server `24.04 LTS`
 
-   e. VM Architecture: `X64`
+e. VM Architecture: `X64`
 
-   f. Size: `standard B1s` ( should be around $3.80 a month)
+f. Size: `standard B1s` ( should be around $3.80 a month)
 
-   g. Public inbound ports: `None`
+g. Public inbound ports: `None`
 
-   h. OS disk type: `standard SSD`(locally redundant storage)
+h. OS disk type: `standard SSD`(locally redundant storage)
 
-   i. no load balancers or NIC network security groups are necessary
+i. no load balancers or NIC network security groups are necessary
 
-   j. Create a meaningful tag and value /10
+j. Create a meaningful tag and value /10
 
-2. Create alert rule and corresponding action group for virtual machine created in step 1, if Percentage CPU goes over certain metric stop the virtual machine /6
+**2. Create alert rule and corresponding action group for virtual machine created in step 1, if Percentage CPU goes over certain metric stop the virtual machine /6**
 
-3. Create an Automation account /1
+**3. Create an Automation account /1**
 
-4. Create a runbook in powershell in the automation account /1
+**4. Create a runbook in powershell in the automation account /1**
 
-5. Edit the code so that it will stop the virtual machine you created in Step 1 if it has a specific tag and test the code to see if it stops the virtual machine /6
+**5. Edit the code so that it will stop the virtual machine you created in Step 1 if it has a specific tag and test the code to see if it stops the virtual machine /6**
 
-6. After demo delete all resources and policies created /1
+**6. After demo delete all resources and policies created /1**
 
-Total: /23
+**Total: /23**
 
-Screenshots:
+## Screenshots:
 
 ➡️ **Step 1:**
 
@@ -68,22 +68,25 @@ Include screenshots of the final code, of you selecting test pane and testing th
 
 Screenshot showing resources have all been deleted or just delete resource group
 
+---
+
 **Some students are having issues with this lab and if that's the case, please show the screenshots of the errors creating the automation account, and do this lab below.**
 
 **Main Tasks for Azure**
 
-1. In a GitHub repo, you can add just a simple html file, or also CSS file and anything else needed for a web application, you want /6
+**1. In a GitHub repo, you can add just a simple html file, or also CSS file and anything else needed for a web application, you want /6**
 
-2. Create a static web app select Free as plan type and link to your GitHub account /2
+**2. Create a static web app select Free as plan type and link to your GitHub account /2**
 
-3. Ensure that in your GitHub repo a workflows folder was created and there is a .yml file /2
+**3. Ensure that in your GitHub repo a workflows folder was created and there is a .yml file /2**
 
-4. Click to go to your new site(this may take a couple of minutes for it to be deployed) /1
+**4. Click to go to your new site(this may take a couple of minutes for it to be deployed) /1**
 
-5. Update the html file in repo change the name or add something to it /2
+**5. Update the html file in repo change the name or add something to it /2**
 
-6. Confirm that site get automatically updated with new change /1
-   Delete resources /1
+**6. Confirm that site get automatically updated with new change /1**
+
+**Delete resources /1**
 
 ➡️ **Step 1:**
 
