@@ -110,9 +110,9 @@ Include screenshots showing you have created the automation account in the same 
 
 Include screenshots displaying the creation of a runbook that uses powershell 5.1 as the runtype and version.
 
-<img src="./screenshots/step_4_1_create_a_runbook_review.png" alt="" title="Create a runbook setting review" width="500"/>
+<img src="./screenshots/step_4_1_create_a_runbook_review.png" alt="" title="Create a runbook setting review" width="400"/>
 
-<img src="./screenshots/step_4_2_runbook_is_created.png" alt="" title="Runbook is created notification" width="500"/>
+<img src="./screenshots/step_4_2_runbook_is_created.png" alt="" title="Runbook is created notification" width="1100"/>
 
 ---
 
