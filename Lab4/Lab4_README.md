@@ -48,23 +48,23 @@ j. Create a meaningful tag and value /10
 
 Include screenshots that display each of those settings being selected and the virtual machine being created
 
-<img src="./screenshots/step_1_1_settings_selected.png" alt="" title="Setting tab Basics" width="600"/>
+<img src="./screenshots/step_1_1_settings_selected.png" alt="" title="Setting tab Basics" width="700"/>
 
-<img src="./screenshots/step_1_2_settings_selected.png" alt="" title="Setting tab Basics" width="600"/>
+<img src="./screenshots/step_1_2_settings_selected.png" alt="" title="Setting tab Basics" width="700"/>
 
-<img src="./screenshots/step_1_3_settings_selected.png" alt="" title="Setting tab Disks" width="600"/>
+<img src="./screenshots/step_1_3_settings_selected.png" alt="" title="Setting tab Disks" width="700"/>
 
-<img src="./screenshots/step_1_4_settings_selected.png" alt="" title="Setting tab Networking" width="600"/>
+<img src="./screenshots/step_1_4_settings_selected.png" alt="" title="Setting tab Networking" width="700"/>
 
-<img src="./screenshots/step_1_5_settings_selected.png" alt="" title="Setting tab Tags" width="600"/>
+<img src="./screenshots/step_1_5_settings_selected.png" alt="" title="Setting tab Tags" width="700"/>
 
-<img src="./screenshots/step_1_6_vm_created.png" alt="" title="Virtual Machine created" width="1000"/>
+<img src="./screenshots/step_1_6_vm_created.png" alt="" title="Virtual Machine created" width="1100"/>
 
-<img src="./screenshots/step_1_7_vm_overview.png" alt="" title="Virtual Machine overview" width="1000"/>
+<img src="./screenshots/step_1_7_vm_overview.png" alt="" title="Virtual Machine overview" width="1100"/>
 
-<img src="./screenshots/step_1_8_properties.png" alt="" title="Virtual Machine Properties" width="1000"/>
+<img src="./screenshots/step_1_8_properties.png" alt="" title="Virtual Machine Properties" width="1100"/>
 
-<img src="./screenshots/step_1_9_properties.png" alt="" title="Virtual Machine Properties" width="500"/>
+<img src="./screenshots/step_1_9_properties.png" alt="" title="Virtual Machine Properties" width="1100"/>
 
 <img src="" alt="" title="" width="500"/>
 
