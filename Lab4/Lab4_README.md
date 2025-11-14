@@ -6,11 +6,11 @@
 
 ---
 
-## Main Tasks for Azure:
+# Main Tasks for Azure:
 
-**1. Create Virtual Machine based on these settings:**
+## 1. Create Virtual Machine based on these settings:
 
-a. Region: `east US` 2
+a. Region: `east US 2`
 
 b. Availability options: `no infrastructure redundancy required`
 
@@ -42,9 +42,9 @@ j. Create a meaningful tag and value /10
 
 **Total: /23**
 
-## Screenshots:
+# Screenshots:
 
-➡️ **Step 1: Create Virtual Machine based on given settings**
+## ➡️ Step 1: Create Virtual Machine based on given settings
 
 Include screenshots that display each of those settings being selected and the virtual machine being created
 
@@ -68,7 +68,7 @@ Include screenshots that display each of those settings being selected and the v
 
 ---
 
-➡️ **Step 2: Create alert rule and corresponding action group for virtual machine**
+## ➡️ Step 2: Create alert rule and corresponding action group for virtual machine
 
 Include screenshots of alert rule being created for the virtual machine, with logical aggregation type, operator, threshold value and checks. Also, include the screenshots of the action group being created in the correct region, and selecting the correct action group which has a built-in functionality that will let you stop the virtual machine.
 
@@ -108,17 +108,17 @@ Include screenshots of alert rule being created for the virtual machine, with lo
 
 <img src="./screenshots/step_2_14_create_an_alert_rule_select_action_group.png" alt="" title="Create an alert rule. Select action groups" width="1100"/>
 
-<img src="./screenshots/step_2_15_create_an_alert_rule_review.png" alt="" title="Create an alert rule. Review" width="1100"/>
+<img src="./screenshots/step_2_15_create_an_alert_rule_review.png" alt="" title="Create an alert rule. Review" width="500"/>
 
-<img src="./screenshots/step_2_16_create_an_alert_rule_review.png" alt="" title="Create an alert rule. Review" width="400"/>
+<img src="./screenshots/step_2_16_create_an_alert_rule_review.png" alt="" title="Create an alert rule. Review" width="500"/>
 
-<img src="./screenshots/step_2_17_created_an_alert_rule_notification.png" alt="" title="Created the alert rule. Notification" width="400"/>
+<img src="./screenshots/step_2_17_created_an_alert_rule_notification.png" alt="" title="Created the alert rule. Notification" width="500"/>
 
 <img src="./screenshots/step_2_18_alert_rule_under_VM.png" alt="" title="Alert rule show up under VM -> Alerts" width="1100"/>
 
 ---
 
-➡️ **Step 3: Create an Automation account**
+## ➡️ Step 3: Create an Automation account
 
 Include screenshots showing you have created the automation account in the same region as all other resources (East US 2)
 
@@ -130,7 +130,7 @@ Include screenshots showing you have created the automation account in the same 
 
 ---
 
-➡️ **Step 4: Create a runbook in powershell in the automation account**
+## ➡️ Step 4: Create a runbook in powershell in the automation account
 
 Include screenshots displaying the creation of a runbook that uses powershell 5.1 as the runtype and version.
 
@@ -140,7 +140,7 @@ Include screenshots displaying the creation of a runbook that uses powershell 5.
 
 ---
 
-➡️ **Step 5: Edit the code so that it will stop the virtual machine**
+## ➡️ Step 5: Edit the code so that it will stop the virtual machine
 
 Include screenshots of the final code, of you selecting test pane and testing the code to see if it works and stops the virtual machine, and final screenshot of the stopped virtual machine you created in step 1
 
@@ -154,7 +154,7 @@ Include screenshots of the final code, of you selecting test pane and testing th
 
 ---
 
-➡️ **Step 6: After demo delete all resources and policies created**
+## ➡️ Step 6: After demo delete all resources and policies created
 
 Screenshot showing resources have all been deleted or just delete resource group
 
