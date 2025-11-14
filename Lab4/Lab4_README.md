@@ -42,6 +42,8 @@ j. Create a meaningful tag and value /10
 
 **Total: /23**
 
+---
+
 # Screenshots:
 
 ## ➡️ Step 1: Create Virtual Machine based on given settings
