@@ -146,13 +146,17 @@ Include screenshots displaying the creation of a runbook that uses powershell 5.
 
 Include screenshots of the final code, of you selecting test pane and testing the code to see if it works and stops the virtual machine, and final screenshot of the stopped virtual machine you created in step 1
 
-<img src="" alt="" title="" width="500"/>
+<img src="./screenshots/step_5_1_final_code.png" alt="" title="Final code" width="800"/>
 
-<img src="" alt="" title="" width="500"/>
+<img src="./screenshots/step_5_2_saved_runbook.png" alt="" title="Successfully saved runbook" width="400"/>
 
-<img src="" alt="" title="" width="500"/>
+<img src="./screenshots/step_5_3_published_runbook.png" alt="" title="" width="400"/>
 
-<img src="" alt="" title="" width="500"/>
+<img src="./screenshots/step_5_4_redirect_to_test_pane.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/step_5_5_test_result_succeeded.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/step_5_6_virtual_machine_stopped.png" alt="" title="" width="500"/>
 
 ---
 
@@ -160,51 +164,15 @@ Include screenshots of the final code, of you selecting test pane and testing th
 
 Screenshot showing resources have all been deleted or just delete resource group
 
+<img src="./screenshots/step_6_1_resource_group_deleted.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/step_6_2_resource_group_deleted.png" alt="" title="" width="500"/>
+
 ---
 
-**Some students are having issues with this lab and if that's the case, please show the screenshots of the errors creating the automation account, and do this lab below.**
-
-**Main Tasks for Azure**
-
-**1. In a GitHub repo, you can add just a simple html file, or also CSS file and anything else needed for a web application, you want /6**
-
-**2. Create a static web app select Free as plan type and link to your GitHub account /2**
-
-**3. Ensure that in your GitHub repo a workflows folder was created and there is a .yml file /2**
-
-**4. Click to go to your new site(this may take a couple of minutes for it to be deployed) /1**
-
-**5. Update the html file in repo change the name or add something to it /2**
-
-**6. Confirm that site get automatically updated with new change /1**
-
-**Delete resources /1**
-
-➡️ **Step 1:**
-
-Screenshot of html file content in repo and all other files, provide link but make sure I have access
-
-➡️ **Step 2:**
-
-Screenshot must show the process of creating static web app, show that free plan was selected and that github account was linked and repo name selected
-
-➡️ **Step 3:**
-
-Screenshot should show that workflow folder was added to repo and content of .yml file
-
-➡️ **Step 4:**
-
-Screenshot of the site
-
-➡️ **Step 5:**
-Screenshot of the file you’ve updated, so I can view the difference.
-
-➡️ **Step 6:**
-
-Screenshot of new site showing the change.
-
-➡️ **Step 7:**
-
-Resources being deleted, or resource group being deleting, show either no resources available or confirmation of deletion of resources
-
 _Due on Nov 23, 2025 11:59 PM_
+
+**References:**
+
+1. [Get-AzVM](https://learn.microsoft.com/en-us/powershell/module/az.compute/get-azvm?view=azps-14.6.0)
+2. [Azure Automation runbook types](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-types?tabs=lps74%2Cpy10)
