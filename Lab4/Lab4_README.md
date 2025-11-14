@@ -102,6 +102,20 @@ Include screenshots of alert rule being created for the virtual machine, with lo
 
 <img src="./screenshots/step_2_13_action_group_created_successfully.png" alt="" title="Action group created successfully" width="400"/>
 
+<img src="./screenshots/step_2_19_action_group_shown_up.png" alt="" title="Action Group shown up" width="1100"/>
+
+**Creating alert rule**
+
+<img src="./screenshots/step_2_14_create_an_alert_rule_select_action_group.png" alt="" title="Create an alert rule. Select action groups" width="1100"/>
+
+<img src="./screenshots/step_2_15_create_an_alert_rule_review.png" alt="" title="Create an alert rule. Review" width="1100"/>
+
+<img src="./screenshots/step_2_16_create_an_alert_rule_review.png" alt="" title="Create an alert rule. Review" width="400"/>
+
+<img src="./screenshots/step_2_17_created_an_alert_rule_notification.png" alt="" title="Created the alert rule. Notification" width="400"/>
+
+<img src="./screenshots/step_2_18_alert_rule_under_VM.png" alt="" title="Alert rule show up under VM -> Alerts" width="1100"/>
+
 ---
 
 ➡️ **Step 3: Create an Automation account**
