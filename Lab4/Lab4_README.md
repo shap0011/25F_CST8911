@@ -146,17 +146,17 @@ Include screenshots displaying the creation of a runbook that uses powershell 5.
 
 Include screenshots of the final code, of you selecting test pane and testing the code to see if it works and stops the virtual machine, and final screenshot of the stopped virtual machine you created in step 1
 
-<img src="./screenshots/step_5_1_final_code.png" alt="" title="Final code" width="800"/>
+<img src="./screenshots/step_5_1_final_code.png" alt="" title="Final code" width="900"/>
 
-<img src="./screenshots/step_5_2_saved_runbook.png" alt="" title="Successfully saved runbook" width="400"/>
+<img src="./screenshots/step_5_2_saved_runbook.png" alt="" title="Successfully saved runbook" width="500"/>
 
-<img src="./screenshots/step_5_3_published_runbook.png" alt="" title="" width="400"/>
+<img src="./screenshots/step_5_3_published_runbook.png" alt="" title="Published runbook" width="500"/>
 
-<img src="./screenshots/step_5_4_redirect_to_test_pane.png" alt="" title="" width="500"/>
+<img src="./screenshots/step_5_4_redirect_to_test_pane.png" alt="" title="Redirect to test pane" width="1100"/>
 
-<img src="./screenshots/step_5_5_test_result_succeeded.png" alt="" title="" width="500"/>
+<img src="./screenshots/step_5_5_test_result_succeeded.png" alt="" title="Test result succeeded" width="1100"/>
 
-<img src="./screenshots/step_5_6_virtual_machine_stopped.png" alt="" title="" width="500"/>
+<img src="./screenshots/step_5_6_virtual_machine_stopped.png" alt="" title="Virtual machine stopped" width="1100"/>
 
 ---
 
@@ -164,9 +164,9 @@ Include screenshots of the final code, of you selecting test pane and testing th
 
 Screenshot showing resources have all been deleted or just delete resource group
 
-<img src="./screenshots/step_6_1_resource_group_deleted.png" alt="" title="" width="500"/>
+<img src="./screenshots/step_6_1_resource_group_deleted.png" alt="" title="Resource group deleted" width="500"/>
 
-<img src="./screenshots/step_6_2_resource_group_deleted.png" alt="" title="" width="500"/>
+<img src="./screenshots/step_6_2_resource_group_deleted.png" alt="" title="Resource group deleted" width="1100"/>
 
 ---
 
