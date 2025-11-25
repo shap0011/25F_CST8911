@@ -22,11 +22,9 @@ https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?t
 
 2. Login to the database using SQL Server Management Studio (SSMS) or Azure Data Studio using both Microsoft authentication to install and sql login to the database created in step 1 /10
 
-3. Delete sql database and any other resources created
+3. Delete sql database and any other resources created /5
 
 ---
-
-                                                                               /1
 
 # Screenshots:
 
