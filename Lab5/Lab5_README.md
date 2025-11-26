@@ -20,6 +20,16 @@ https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?t
 
 1. Create a sql database with the ability to use both SQL and Microsoft Entra authentication to login. Create for development workload environment, select locally redundant backup storage /5
 
+Server name: `sqllab5server`
+
+Location: `Canada central`
+
+Authentication method: `Use both SQL and Microsoft Entra authentication`
+
+Server admin login: `sqladminolga`
+
+Password: `olga%durham25`
+
 2. Login to the database using SQL Server Management Studio (SSMS) or Azure Data Studio using both Microsoft authentication to install and sql login to the database created in step 1 /10
 
 3. Delete sql database and any other resources created /5
@@ -31,6 +41,20 @@ https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?t
 ## Step 1:
 
 - Screenshots must include each step of the creation of the azure SQL database and server specifically focused on the of workload environment, and if the right checkboxes were selected to allow both SQL and Microsoft Entra authentication. Any additional settings that are relevant that would allow you to sign in and any permissions that might need to be given to allow you to login for step 2, should also be included.
+
+<img src="./screenshots/1_open_azure_sql_databases_create.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/2_create_server_setup.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/3_create_database_setting.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/4_database_created.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/5_resource_group_server_database_created.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/6_sql_server_created.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/7_sql_database.png" alt="" title="" width="500"/>
 
 ## Step 2:
 
