@@ -40,9 +40,17 @@ Microsoft Entra Admin: `shap0011@algonquinlive.com`
 
 Compute + storage: `General Purpose - Serverless Standard series (Gen5), 1 vCore, 32 GB storage, zone redundant disabled`
 
+Workload environment: `Development`
+
 Backup storage redundancy: `Locally redundant backup storage`
 
 2. Login to the database using SQL Server Management Studio (SSMS) or Azure Data Studio using both Microsoft authentication to install and sql login to the database created in step 1 /10
+
+Login failed with error: `Cannot connect to sqllab5server.database.windows.net. Reason: An instance-specific error occurred while establishing a connection to SQL Server. Connection was denied because Deny Public Network Access is set to Yes.(Microsoft SQL Server, Error: 47073)`
+
+The public network access needs to be turned `on`
+
+NOTE: The screenshot available in the "Screenshot. Step 2. Section"
 
 3. Delete sql database and any other resources created /5
 
@@ -86,8 +94,30 @@ Backup storage redundancy: `Locally redundant backup storage`
 
 - Screenshot of the credentials being inputted to sign in via SQL login(username and password) and following result that you were able to sign in being shown as well
 
+<img src="./screenshots/10_edit_network_setting.png" alt="" title="" width="1100"/>
+
+<img src="./screenshots/11_updated_server_firewall_rules_server_public_network_access.png" alt="" title="" width="500"/>
+
+<img src="./screenshots/9_connect_to_server.png" alt="" title="" width="700"/>
+
+<img src="./screenshots/8_connect_to_server.png" alt="" title="" width="700"/>
+
+<img src="./screenshots/12_sql_connect_work.png" alt="" title="" width="600"/>
+
+<img src="./screenshots/13_database_listed_under_Databases.png" alt="" title="" width="600"/>
+
 - Screenshot of the credentials being inputted to sign in via Microsoft Entra ie authentication and following result that you were able to sing in being shown as well
+
+<img src="./screenshots/14_set_network_protocol_to_tcp_ip.png" alt="" title="" width="700"/>
+
+<img src="./screenshots/15_login_setting.png" alt="" title="" width="700"/>
+
+<img src="./screenshots/16_entra_login_completed.png" alt="" title="" width="600"/>
 
 ## Step 3:
 
 - Screenshot of all resources being deleted
+
+<img src="./screenshots" alt="" title="" width="500"/>
+
+<img src="./screenshots" alt="" title="" width="500"/>
