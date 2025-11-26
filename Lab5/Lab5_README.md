@@ -138,10 +138,8 @@ _NOTE: The screenshot available in the "Screenshot. Step 2. Section"_
 
 **Resource group deleted**
 
-<img src="./screenshots/17_resource_group_deleted.png" alt="" title="Resource group deleted" width="500"/>
-
-**All resources have been deleted**
+<img src="./screenshots/17_resource_group_deleted.png" alt="" title="Resource group deleted" width="400"/>
 
 **All resources created for this lab have been deleted**
 
-<img src="./screenshots/18_all_resources_have_been_deleted.png" alt="" title="All resources created for this lab have been deleted" width="500"/>
+<img src="./screenshots/18_all_resources_have_been_deleted.png" alt="" title="All resources created for this lab have been deleted" width="800"/>
