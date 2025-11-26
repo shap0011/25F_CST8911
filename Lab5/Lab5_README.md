@@ -50,7 +50,7 @@ Login failed with error: `Cannot connect to sqllab5server.database.windows.net. 
 
 The public network access needs to be turned `on`
 
-NOTE: The screenshot available in the "Screenshot. Step 2. Section"
+_NOTE: The screenshot available in the "Screenshot. Step 2. Section"_
 
 3. Delete sql database and any other resources created /5
 
@@ -94,25 +94,43 @@ NOTE: The screenshot available in the "Screenshot. Step 2. Section"
 
 - Screenshot of the credentials being inputted to sign in via SQL login(username and password) and following result that you were able to sign in being shown as well
 
-<img src="./screenshots/10_edit_network_setting.png" alt="" title="" width="1100"/>
+**Edit the Server Networking setting**
 
-<img src="./screenshots/11_updated_server_firewall_rules_server_public_network_access.png" alt="" title="" width="500"/>
+<img src="./screenshots/10_edit_network_setting.png" alt="" title="Edit the server networking setting" width="1100"/>
 
-<img src="./screenshots/9_connect_to_server.png" alt="" title="" width="700"/>
+**Network access and firewall rules updated**
 
-<img src="./screenshots/8_connect_to_server.png" alt="" title="" width="700"/>
+<img src="./screenshots/11_updated_server_firewall_rules_server_public_network_access.png" alt="" title="Network access and firewall rules updated" width="400"/>
 
-<img src="./screenshots/12_sql_connect_work.png" alt="" title="" width="600"/>
+**Connection Properties setting**
 
-<img src="./screenshots/13_database_listed_under_Databases.png" alt="" title="" width="600"/>
+<img src="./screenshots/9_connect_to_server.png" alt="" title="Connection Properties setting" width="700"/>
+
+**Login setting**
+
+<img src="./screenshots/8_connect_to_server.png" alt="" title="Login setting" width="700"/>
+
+**SQL connection works**
+
+<img src="./screenshots/12_sql_connect_work.png" alt="" title="SQL connection works" width="600"/>
+
+**The database listed under databases**
+
+<img src="./screenshots/13_database_listed_under_Databases.png" alt="" title="The database listed under databases" width="600"/>
 
 - Screenshot of the credentials being inputted to sign in via Microsoft Entra ie authentication and following result that you were able to sing in being shown as well
 
-<img src="./screenshots/14_set_network_protocol_to_tcp_ip.png" alt="" title="" width="700"/>
+**Entra Connection Properties setting**
 
-<img src="./screenshots/15_login_setting.png" alt="" title="" width="700"/>
+<img src="./screenshots/14_set_network_protocol_to_tcp_ip.png" alt="" title="Entra Connection Properties setting" width="700"/>
 
-<img src="./screenshots/16_entra_login_completed.png" alt="" title="" width="600"/>
+**Entra Login setting**
+
+<img src="./screenshots/15_login_setting.png" alt="" title="Entra Login setting" width="700"/>
+
+**Entra login completed**
+
+<img src="./screenshots/16_entra_login_completed.png" alt="" title="Entra login completed" width="600"/>
 
 ## Step 3:
 
